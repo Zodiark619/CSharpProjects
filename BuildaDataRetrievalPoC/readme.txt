@@ -1,0 +1,1 @@
+Build a Data Retrieval PoC - https://www.manning.com/liveproject/build-a-data-retrieval-poc
